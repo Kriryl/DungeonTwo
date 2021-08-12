@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: df5f93746b4af3947ad8c59dec1a8ae8, type: 3}
+    totalSpriteSurfaceArea: 1253376
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 38bd7b00029e9cb4091e37e010fa381d, type: 3}
+  - {fileID: 21300000, guid: 456fde90d1f2012408b1241f0da130c7, type: 3}
+  - {fileID: 21300000, guid: 483b53c077f2b0648a7d443ff373df58, type: 3}
+  - {fileID: 21300000, guid: 4887b9c0687473a41964440f93ce027b, type: 3}
+  - {fileID: 21300000, guid: 4302cbd0ff87bed45be0135bafceebdc, type: 3}
+  - {fileID: 21300000, guid: 624dc2c1a35ec1142b668694998c413b, type: 3}
+  - {fileID: 21300000, guid: 2307c1e189e54f041a647ce0a2763aa0, type: 3}
+  - {fileID: 21300000, guid: 80031ce2fbfffdb459d55855c9f95893, type: 3}
+  - {fileID: 21300000, guid: 7728de330b32a6746b66745a2e59855c, type: 3}
+  - {fileID: 21300000, guid: 94fee97370426294a861d05aaaf92fb4, type: 3}
+  - {fileID: 21300000, guid: 7a0e1db4727613349a637c6668e0eab4, type: 3}
+  - {fileID: 21300000, guid: 9ee2b8d48fc3a1544ba0354d18547168, type: 3}
+  - {fileID: 21300000, guid: 8ff63b45637a04642b3a33304c61a48c, type: 3}
+  - {fileID: 21300000, guid: 6c07f085e23d87f438696a7d1da87db0, type: 3}
+  - {fileID: 21300000, guid: 680dd9c582350614f9c83bd982a151e0, type: 3}
+  - {fileID: 21300000, guid: 351d6146a7bb73248ae6d4ffca183844, type: 3}
+  - {fileID: 21300000, guid: 6331dff61e2ec05449349dbd7d3890c2, type: 3}
+  - {fileID: 21300000, guid: 5eceda27b278c6846a1f27f1f011c563, type: 3}
+  - {fileID: 21300000, guid: aad00b67d56fce54081e24c204f4c6c8, type: 3}
+  - {fileID: 21300000, guid: 19ba39080a8b0b0418dad84aace69bd1, type: 3}
+  - {fileID: 21300000, guid: c798721824141a5498c8718b2b437cef, type: 3}
+  - {fileID: 21300000, guid: c0e4159846c2aa545a9b1c9df7762e0f, type: 3}
+  - {fileID: 21300000, guid: 05290798943b1444983095cd4c308d0d, type: 3}
+  - {fileID: 21300000, guid: 6ab398d88b5de5d4d9705ac934f4d32e, type: 3}
+  - {fileID: 21300000, guid: 15d555c95fa84d64ba51366a83a2985e, type: 3}
+  - {fileID: 21300000, guid: d719795ae7ddf5f488335b261e7805de, type: 3}
+  - {fileID: 21300000, guid: e68b70aa15339dc458e570001b90398f, type: 3}
+  - {fileID: 21300000, guid: 7e1717faafeae7b49a755210037a6b0b, type: 3}
+  - {fileID: 21300000, guid: 4b36961cf17ae4a49a391b24d8baf353, type: 3}
+  - {fileID: 21300000, guid: 43b32f4ce0d3df841a2cc552f006f1d3, type: 3}
+  - {fileID: 21300000, guid: 1eb47c8c062f9e943a1b440f13f74eb1, type: 3}
+  - {fileID: 21300000, guid: 9595ad2e351620b4789c50c10d266440, type: 3}
+  - {fileID: 21300000, guid: 8e1a1bae9ce969740b0fb16a54cea534, type: 3}
+  - {fileID: 21300000, guid: d4ea20af4a64e1742910de596bb15139, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DivineArmor
+  - DivineStaff
+  - GhostSamuraiArmor
+  - DarkLordAxe
+  - ShadowHunterOutfit [ShowEars]
+  - GhostSamuraiArmor
+  - DivineArmor
+  - DarkLordArmor
+  - DarkLordArmor
+  - DarkLordArmor
+  - GloryArmor [ShowEars]
+  - ShadowHunterOutfit [ShowEars]
+  - GloryArmor [ShowEars]
+  - ShadowHunterSword
+  - ShadowHunterOutfit [ShowEars]
+  - GhostSamuraiArmor
+  - DivineArmor
+  - GhostSamuraiArmor
+  - GhostSamuraiSword
+  - GhostSamuraiArmor
+  - GloryArmor [ShowEars]
+  - ShadowHunterOutfit [ShowEars]
+  - GloryArmor [ShowEars]
+  - ShadowHunterHammer
+  - DivineSword
+  - GloryArmor [ShowEars]
+  - DivineArmor
+  - ShadowHunterOutfit [ShowEars]
+  - DarkLordArmor
+  - DarkLordSword
+  - GloryMace
+  - DivineArmor
+  - GlorySword
+  - DarkLordArmor
+  m_RenderDataMap: {}
+  m_Tag: Icons
+  m_IsVariant: 0

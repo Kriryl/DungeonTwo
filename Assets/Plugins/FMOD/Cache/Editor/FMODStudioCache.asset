@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 5436965900054937824}
+  - {fileID: 6084627382922828249}
+  EditorEvents:
+  - {fileID: 6024042859708232750}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 6084627382922828249}
+  StringsBanks:
+  - {fileID: 5436965900054937824}
+  cacheVersion: 6
+--- !u!114 &5436965900054937824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/paulr/Documents/FMOD Studio/project1/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+  Exists: 1
+--- !u!114 &6024042859708232750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 'event:/D:Unity-programmering
+
+    eposDungeon_Escape_TwoDungeon Escape
+    2Assets/med event'
+  m_EditorClassIdentifier: 
+  Path: 'event:/D:Unity-programmering
+
+    eposDungeon_Escape_TwoDungeon Escape 2Assets/med
+    event'
+  guid: "\0-\eS\x1D\x1A\u0746\0\f/\0\0t_\0"
+  Banks:
+  - {fileID: 6084627382922828249}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 51225
+--- !u!114 &6084627382922828249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/paulr/Documents/FMOD Studio/project1/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+  Exists: 1
